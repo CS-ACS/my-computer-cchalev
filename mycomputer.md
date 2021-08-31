@@ -1,7 +1,7 @@
 # Computer Specs 
 
-* *ASUS VivoBook*
-* Windows 64-Bit
+* __ASUS VivoBook__
+* *Windows 64-Bit*
 * 11th Gen Intel(R) Core(TM) i5-1135G7 @2.40GHz 2.42GHz
 * 8.00 GB RAM
 * SSD 475.74 GB
