@@ -6,7 +6,7 @@
 * 8.00 GB RAM
 * SSD 475.74 GB
 * Intel(R) Wireless Bluetooth(R)/Intel(R) Wi-Fi 6 AX201 160MHz
-* HDMI/1x USB 2.0 1x USB 3.0
+* HDMI, 1x USB 2.0, 1x USB 3.0
 
 ## Comentary
 * This is a new computer my mother got me from Germany because my old computer didn't work anymore. I like this computer but I don't think and it is working well until now but I don't think it will handle things such as video games very well.
