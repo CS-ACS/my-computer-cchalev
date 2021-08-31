@@ -1,3 +1,5 @@
+![IMG_1372](https://user-images.githubusercontent.com/89781943/131477371-aedfd962-dc4b-4f5b-ba66-314e0f143753.jpg)
+![IMG_1372](https://user-images.githubusercontent.com/89781943/131477440-7241a871-32d2-4b42-85d1-2a4dc5450dd6.jpg)
 # Computer Specs 
 
 * __ASUS VivoBook__
@@ -11,4 +13,4 @@
 ## Comentary
 * This is a new computer my mother got me from Germany because my old computer didn't work anymore. I like this computer but I don't think and it is working well until now but I don't think it will handle things such as video games very well.
 * My processor isn't the best so with things such as video games and video editing softwares it might not run very smoothly. 8GB of RAM is enough but it might slow my computer down if I'm doing too many things at a time.
-* an image of your computer (taken by you of *your* computer, rather than one you find online of your *type* of computer).
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
