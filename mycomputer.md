@@ -5,7 +5,7 @@
 * 11th Gen Intel(R) Core(TM) i5-1135G7 @2.40GHz 2.42GHz
 * 8.00 GB RAM
 * SSD 475.74 GB
-* Intel(R) Wireless Bluetooth(R)/Intel(R) Wi-Fi 6 AX201 160MHz
+* Intel(R) Wireless Bluetooth(R)/Intel(R) Wi-Fi 6 AX201 160MHz 802.11ax
 * HDMI, 1x USB 2.0, 1x USB 3.0
 
 ## Comentary
